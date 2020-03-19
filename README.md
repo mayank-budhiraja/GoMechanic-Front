@@ -7,7 +7,7 @@ GoMechanic FrontPage using ReactJS & Bootstrap
     $npm install
     $npm start
 
-Open http://localhost:3000
+Open http://localhost:3000 to see your app. The initial structure of your app is setup. 
 
 
 #Contribution
