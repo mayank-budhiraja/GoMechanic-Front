@@ -1,16 +1,16 @@
 GoMechanic FrontPage using ReactJS & Bootstrap
 
-#Demo 
+## Demo 
 
 
-#Getting Started
+## Getting Started
     $npm install
     $npm start
 
 Open http://localhost:3000 to see your app. The initial structure of your app is setup. 
 
 
-#Contribution
+## Contribution
 Remaining Edits 
 
 1. Add header info box
