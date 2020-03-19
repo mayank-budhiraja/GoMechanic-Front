@@ -1,0 +1,54 @@
+.prefooter-style{
+    background-color:#122138;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h5.upper{
+    text-transform: uppercase;
+    font-weight: 900; 
+    font-size: 14px;
+    color: white;
+}
+
+.prefooter-content{
+    list-style-type:none;
+    padding: 10px 5px 10px;
+    color: rgb(212, 209, 209);
+}
+
+.go-address{
+    max-width: 90%;
+    padding-left: 20px;
+}
+
+img.logo-footer { 
+    max-width: 300px;
+    margin-top: 30px;
+    margin-left: 20px; 
+    margin-bottom: 18px; }
+
+.footer-bg{
+    background-color: #25282b;
+    padding-bottom: 80px;
+    font-size: 12px;
+}
+
+.footer-info{
+    margin-top: 30px;
+}
+
+.footer-android-btn {
+    width: 203px;
+    height: 70px;
+    margin-top: 10px;
+}
+
+.footer-android-head{
+    margin-top: 30px;
+    margin-left: 50px;
+}

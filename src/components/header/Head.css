@@ -1,0 +1,42 @@
+
+.nav-item {
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 19px 20px 12px;
+    color: #fbfcfc;  }
+
+
+.Main-Header {
+
+    background-image: url(https://columbusohiotint.com/wp-content/uploads/2019/04/autobahn-background-image-paint-protective-film-black-edit.jpg);
+    background-size: cover;
+    min-height: 86vh;
+    font-family: 'Raleway', sans-serif;
+
+    /*background-color: #4ca1af;
+    background-image: linear-gradient(135deg, #4ca1af 0%, #c4e0e5 100%);*/
+}
+
+
+.navbar-brand{
+    margin-left: 3rem;
+}
+
+.navbar .navbar-brand {
+    color: #fff;
+  }
+
+  .navbar {
+    transition: all 0.4s;
+  }
+  
+  .navbar .nav-link {
+    color: #fff;
+  }
+  
+  .navbar .nav-link:hover,
+  .navbar .nav-link:focus {
+    color: #fff;
+    text-decoration: none;
+  }

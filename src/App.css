@@ -1,0 +1,26 @@
+:root {
+    --mainDark: #24282e;
+    --mainBlue: #122138;
+    --mainGrey: rgba(109,109,109);
+    --mainLightGrey: rgba(172,172,172);
+    --mainWhite: #fff;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    font-family: 'Raleway', sans-serif; 
+    font-size: 36px;
+    font-weight: 300;
+    color: #888;
+    line-height: 30px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+}
+
+.bg-white{
+    background-color:rgb(255, 255, 255);
+}

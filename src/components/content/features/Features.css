@@ -1,0 +1,186 @@
+.scroll {
+  white-space: nowrap;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+
+hr.line{
+  border-top: 3px solid #f41a1a;
+  width: 10%;
+  margin-left: 0;
+} 
+
+.glyphicon-chevron-left{
+  color: #02d0a1;
+}
+
+.row-service{ 
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    width: 100%;
+    margin-left: 0;
+}
+
+.our-services{
+  margin-left: 0;
+  font-weight: bold;
+}
+
+header {
+  background: #d5d7da; }
+
+
+.example-one-header{
+  border-radius: 3px;
+  max-width: 1000px;
+ }
+
+header,nav{ 
+  font-size: 0; }
+
+.item-scroll{
+  font-size: 30px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 12px 16px 13px;
+  color: #171818;
+}
+
+.vertical-align-middle {
+  display: inline-block;
+  vertical-align: middle; }
+
+.title {
+  margin: 24px 0 6px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  color: rgb(238, 229, 229); }
+
+
+.scroll::-webkit-scrollbar {
+  display: none; }
+
+.scroller-right{
+    float:right;
+  }
+  
+.scroller-left {
+    float:left;
+  }
+
+/*--------Our Services--------*/
+
+.container {
+  margin-top: 50px
+  
+}
+
+.section-title {
+  margin-bottom: 38px;
+}
+
+.shadow,
+.subscription-wrapper {
+  box-shadow: 0px 15px 39px 0px rgba(8, 18, 109, 0.1) !important
+}
+
+.icon-primary {
+  color: #062caf
+}
+
+.icon-bg-circle {
+  position: relative
+}
+
+.icon-lg {
+  font-size: 50px
+}
+
+.icon-bg-circle::before {
+  z-index: 1;
+  position: relative
+}
+
+.icon-bg-primary::after {
+  background: #062caf !important
+}
+
+.icon-bg-circle::after {
+  content: '';
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  top: -35px;
+  left: 15px;
+  border-radius: 50%;
+  background: inherit;
+  opacity: .1
+}
+
+p,
+.paragraph {
+  font-weight: 400;
+  color: #8b8e93;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.icon-bg-yellow::after {
+  background: #f6a622 !important
+}
+
+.icon-bg-purple::after {
+  background: #7952f5
+}
+
+.icon-yellow {
+  color: #f6a622
+}
+
+.icon-purple {
+  color: #7952f5
+}
+
+.icon-cyan {
+  color: #02d0a1
+}
+
+.icon-bg-cyan::after {
+  background: #02d0a1
+}
+
+.icon-bg-red::after {
+  background: #ff4949
+}
+
+.icon-red {
+  color: #ff4949
+}
+
+.icon-bg-green::after {
+  background: #66cc33
+}
+
+.icon-green {
+  color: #66cc33
+}
+
+.icon-bg-orange::after {
+  background: #ff7c17
+}
+
+.icon-orange {
+  color: #ff7c17
+}
+
+.icon-bg-blue::after {
+  background: #3682ff
+}
+
+.icon-blue {
+  color: #3682ff
+}
